@@ -1,0 +1,11 @@
+numeros_ferbonacci = int(input('Quantos termos da sequência de Ferbonacci deseja saber: '))
+cont = 3
+termo_1 = 0
+termo_2 = 1
+print(termo_1, termo_2, end=' ')
+while cont <= numeros_ferbonacci:
+    termo_3 = termo_1 + termo_2
+    print(termo_3, end=' ')
+    termo_1 = termo_2
+    termo_2 = termo_3
+    cont += 1
