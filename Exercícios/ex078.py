@@ -15,3 +15,4 @@ print('\nPosição do(s) menor(es) número(s): ',end='')
 for i, numero in enumerate(numeros):
     if numero == menor:
         print(i + 1, end='. ')
+        
