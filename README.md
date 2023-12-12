@@ -1,2 +1,3 @@
 # Python
- Curso introdutório de Python com mais de 100 exercícios feitos por mim.
+ Curso introdutório e inicial de Python.
+ Com o total de 100 exercícios.
