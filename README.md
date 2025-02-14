@@ -17,5 +17,5 @@ Este curso é o ponto de partida perfeito para quem deseja entrar no universo da
 ## **Sobre o Curso**  
 - **Plataforma**: Curso em Vídeo  
 - **Professor**: Gustavo Guanabara  
-- **Duração**: Aproximadamente 40 horas de conteúdo, focando em uma introdução prática à programação.
+- **Duração**: Aproximadamente 120 horas de conteúdo, focando em uma introdução prática à programação.
 - **Conclusão**: Concluído 
