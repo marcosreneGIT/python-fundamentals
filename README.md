@@ -1,4 +1,4 @@
-# **Python 3 
+# **Python 3**
 
 ## **Conteúdo do Curso**  
 Este curso é o ponto de partida perfeito para quem deseja entrar no universo da programação, sem necessidade de experiência prévia.
